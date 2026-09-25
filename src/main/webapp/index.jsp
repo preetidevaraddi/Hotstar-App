@@ -24,6 +24,7 @@
             <li class="nav-items"><a href="#">TV</a></li>
             <li class="nav-items"><a href="#">CINEMAS</a></li>
             <li class="nav-items"><a href="#">Preeti</a></li>
+            <li class="nav-items"><a href="#">Devaraddi</a></li>
             <li class="nav-items"><a href="#">Premium</a></li>
             <li class="nav-items"><a href="#">Disney+</a></li>
             <li class="icon"><a href="#"></a></li>
